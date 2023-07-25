@@ -18,11 +18,32 @@ Além disso, é necessário um navegador web atualizado para testar e visualizar
 #  Estrutura do Projeto
 O projeto será composto por três (03) arquivos principais:
 
-# 1.Index.html: Este arquivo conterá a estrutura básica da página, incluindo os elementos de input e botões.
-# 2 CSS/Style.css: Aqui, definiremos o estilo e a aparência dos elementos da página.
-# 3 JS/Script.js: Este arquivo conterá o código JavaScript responsável pela geração de senhas e interações com a página.
+1. Index.html: Este arquivo conterá a estrutura básica da página, incluindo os elementos de input e botões.
+2. CSS/Style.css: Aqui, definiremos o estilo e a aparência dos elementos da página.
+3. JS/Script.js: Este arquivo conterá o código JavaScript responsável pela geração de senhas e interações com a página.
 
 # Demonstração
 ![image](https://github.com/VenturaCerqueira/NewPassSafe/assets/82953125/5391e85b-9663-4369-b955-7f7fbe5706b4)
 
 img 01 - 25/07/2023 - Anderson Ventura
+
+#  Função Ocultar Senha:
+![image](https://github.com/VenturaCerqueira/NewPassSafe/assets/82953125/14c95c63-4da4-47fb-b6b2-a36c396a4568)
+img 02 - 25/07/2023 - Anderson Ventura
+
+# Tamanho da senha:
+![image](https://github.com/VenturaCerqueira/NewPassSafe/assets/82953125/f61f96e7-1caa-4d0c-8200-330d5737c13e)
+img 03 - 25/07/2023 - Anderson Ventura
+
+# Nivel da senha:
+
+![image](https://github.com/VenturaCerqueira/NewPassSafe/assets/82953125/23dd7bc3-6dc2-4b41-93e8-465afe94a19d)
+Nivel: alerta - img 04 - 25/07/2023 - Anderson Ventura
+
+![image](https://github.com/VenturaCerqueira/NewPassSafe/assets/82953125/0ac1be37-52ae-4a8e-b74e-2a819943104a)
+Nive: Perigo - img 05 - 25/07/2023 - Anderson Ventura
+
+![image](https://github.com/VenturaCerqueira/NewPassSafe/assets/82953125/21f6db65-a040-4a36-88e2-618eb6814c3a)
+Nivel: Segura - img 06 - 25/07/2023 - Anderson Ventura 
+
+
